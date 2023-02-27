@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/home/mateusbispo/eclipse-workspace-exercicios-fuctura/.metadata/.plugins/org.eclipse.jdt.core
+1366270901.index
+2331500526.index
+1865797976.index
